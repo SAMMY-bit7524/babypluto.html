@@ -1,0 +1,45 @@
+/*This is where my CSS Code starts*/
+header{
+  background-color: skyblue;
+  text-align: center;
+  font-size: 40px;
+}
+  h1 {
+    background-color: transparent;
+    font-size: 20px;
+    font-family:fantasy;
+    margin: 0,0;
+    width: constant;
+    height: 30px;
+  }
+#outside{
+  background-color: lightgoldenrodyellow;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+#survey-form{
+  background-color: white;
+}
+fieldset{
+  border: 1px solid lightgray;
+  margin: 10px;
+}
+legend{
+  font-weight: 700;
+}
+#number{
+  width: 150px;
+}
+div{
+  margin-top: 1em;
+}
+form{
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  width: 490px;
+  border-radius: 1em;
+  padding: 1em;
+}
+b{
+  font-weight: 500;
+}
